@@ -8,3 +8,9 @@ Technical Areas of Interest Include
 - TypeScript
 - AWS Serverless
 - 2D game design
+- Fediverse
+
+NonTechnical Areas of Interest
+
+- Digital Art creation
+- Open world games
