@@ -7,7 +7,7 @@ Technical Areas of Interest Include
 - ECS design pattern
 - TypeScript
 - AWS Serverless
-- 2D game design
+- 2D game engine design
 - Fediverse
 - ProcGen
 
