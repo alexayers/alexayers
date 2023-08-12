@@ -9,6 +9,7 @@ Technical Areas of Interest Include
 - AWS Serverless
 - 2D game design
 - Fediverse
+- ProcGen
 
 NonTechnical Areas of Interest
 
