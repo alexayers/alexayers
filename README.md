@@ -17,4 +17,5 @@ NonTechnical Areas of Interest
 
 - Digital Art creation
 - Open world games
+- Music
 - Legos
