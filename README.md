@@ -4,7 +4,7 @@ My name is Alex Ayers.
 
 Technical Areas of Interest Include 
 
-- ECS design pattern
+- API Design
 - TypeScript
 - Dart
 - AWS
