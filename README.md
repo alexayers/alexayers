@@ -16,7 +16,6 @@ Technical Areas of Interest Include
 NonTechnical Areas of Interest
 
 - Digital Art creation
-- AI Music
+- Experimental Music
 - Open world games
-- Music
 - Legos
